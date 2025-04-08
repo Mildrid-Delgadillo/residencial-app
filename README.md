@@ -44,7 +44,7 @@ residencial-app/
 
 - 📦 [Repositorio GitHub](https://github.com/Mildrid-Delgadillo/residencial-app)
 - 📊 [Tablero SCRUM en Projects](https://github.com/users/Mildrid-Delgadillo/projects/1/views/1)
-
+- 🚀 [**Ver app en línea**](https://Mildrid-Delgadillo.github.io/residencial-app)
 ---
 
 
