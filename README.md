@@ -12,14 +12,13 @@ Este proyecto es una plataforma web para la gestión de residentes, pagos y serv
 
 ## 📁 Estructura del Proyecto
 residencial-app/
-├── public/               # Archivos estáticos (index.html, favicon, etc.)
-├── src/                  # Código fuente principal
-│   ├── pages/            # LoginPage, DashboardPage, etc.
-│   ├── components/       # Componentes reutilizables
-│   └── App.js            # Componente raíz
-├── package.json          # Configuración del proyecto y dependencias
-├── README.md             # Documentación principal del proyecto
----
+├── public/              
+├── src/                  
+│   ├── pages/            
+│   ├── components/       
+│   └── App.js            
+├── package.json         
+├── README.md            
 
 ## 🚀 Funcionalidades por Sprint
 
