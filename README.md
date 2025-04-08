@@ -1,3 +1,9 @@
+# Residencial App
+
+🚀 [**Ver app en línea**](https://Mildrid-Delgadillo.github.io/residencial-app)
+
+Bienvenido a la plataforma web de administración para el Residencial Los Robles.
+
 # 🏡 Plataforma Residencial Los Robles
 
 Este proyecto es una plataforma web para la gestión de residentes, pagos y servicios de la colonia **Residencial Los Robles**. Se desarrolló utilizando React y sigue una metodología ágil basada en **SCRUM**.
@@ -5,8 +11,14 @@ Este proyecto es una plataforma web para la gestión de residentes, pagos y serv
 ---
 
 ## 📁 Estructura del Proyecto
-
-
+residencial-app/
+├── public/               # Archivos estáticos (index.html, favicon, etc.)
+├── src/                  # Código fuente principal
+│   ├── pages/            # LoginPage, DashboardPage, etc.
+│   ├── components/       # Componentes reutilizables
+│   └── App.js            # Componente raíz
+├── package.json          # Configuración del proyecto y dependencias
+├── README.md             # Documentación principal del proyecto
 ---
 
 ## 🚀 Funcionalidades por Sprint
