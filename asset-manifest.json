@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/residencial-app/static/css/main.ab3b9b02.chunk.css",
-    "main.js": "/residencial-app/static/js/main.18b84266.chunk.js",
-    "main.js.map": "/residencial-app/static/js/main.18b84266.chunk.js.map",
-    "runtime~main.js": "/residencial-app/static/js/runtime~main.4fa2b2e8.js",
-    "runtime~main.js.map": "/residencial-app/static/js/runtime~main.4fa2b2e8.js.map",
-    "static/js/2.3a4791da.chunk.js": "/residencial-app/static/js/2.3a4791da.chunk.js",
-    "static/js/2.3a4791da.chunk.js.map": "/residencial-app/static/js/2.3a4791da.chunk.js.map",
-    "static/js/3.9093b10f.chunk.js": "/residencial-app/static/js/3.9093b10f.chunk.js",
-    "static/js/3.9093b10f.chunk.js.map": "/residencial-app/static/js/3.9093b10f.chunk.js.map",
+    "main.css": "/residencial-app/static/css/main.ec9e3562.chunk.css",
+    "main.js": "/residencial-app/static/js/main.2bbacb39.chunk.js",
+    "main.js.map": "/residencial-app/static/js/main.2bbacb39.chunk.js.map",
+    "runtime~main.js": "/residencial-app/static/js/runtime~main.f89c93f9.js",
+    "runtime~main.js.map": "/residencial-app/static/js/runtime~main.f89c93f9.js.map",
+    "static/js/2.af8b3137.chunk.js": "/residencial-app/static/js/2.af8b3137.chunk.js",
+    "static/js/2.af8b3137.chunk.js.map": "/residencial-app/static/js/2.af8b3137.chunk.js.map",
+    "static/js/3.132715ea.chunk.js": "/residencial-app/static/js/3.132715ea.chunk.js",
+    "static/js/3.132715ea.chunk.js.map": "/residencial-app/static/js/3.132715ea.chunk.js.map",
     "index.html": "/residencial-app/index.html",
-    "precache-manifest.d1daa36b52945867231458af427eb91d.js": "/residencial-app/precache-manifest.d1daa36b52945867231458af427eb91d.js",
+    "precache-manifest.3641c039f6a48907257d001b8d68cde2.js": "/residencial-app/precache-manifest.3641c039f6a48907257d001b8d68cde2.js",
     "service-worker.js": "/residencial-app/service-worker.js",
-    "static/css/main.ab3b9b02.chunk.css.map": "/residencial-app/static/css/main.ab3b9b02.chunk.css.map"
+    "static/css/main.ec9e3562.chunk.css.map": "/residencial-app/static/css/main.ec9e3562.chunk.css.map",
+    "static/media/LoginPage.css": "/residencial-app/static/media/bg-login.20c714bd.jpg",
+    "static/media/facebook-icon.png": "/residencial-app/static/media/facebook-icon.65cc3251.png",
+    "static/media/google-icon.png": "/residencial-app/static/media/google-icon.440f1988.png"
   }
 }
