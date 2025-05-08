@@ -1,6 +1,6 @@
 # Residencial App
 
-🚀 [**Ver app en línea**](https://Mildrid-Delgadillo.github.io/residencial-app)
+🚀 [**Ver app en línea**](https://mildrid-delgadillo.github.io/residencial-app)
 
 Bienvenido a la plataforma web de administración para el Residencial Los Robles.
 
@@ -43,15 +43,15 @@ residencial-app/
 
 ## 🔗 Enlaces útiles
 
-- 📦 [Repositorio GitHub](https://github.com/Mildrid-Delgadillo/residencial-app)
-- 📊 [Tablero SCRUM (Projects)](https://github.com/users/Mildrid-Delgadillo/projects/1/views/1)
-- 🚀 [**Ver app en línea**](https://Mildrid-Delgadillo.github.io/residencial-app)
+- 📦 [Repositorio GitHub](https://github.com/mildrid-delgadillo/residencial-app)
+- 📊 [Tablero SCRUM (Projects)](https://github.com/users/mildrid-delgadillo/projects/1/views/1)
+- 🚀 [**Ver app en línea**](https://mildrid-delgadillo.github.io/residencial-app)
 
 
 ## ⚙️ ¿Cómo empezar?
 
 ```bash
-git clone https://github.com/Mildrid-Delgadillo/residencial-app.git
+git clone https://github.com/mildrid-delgadillo/residencial-app.git
 cd residencial-app
 npm install
 npm start
