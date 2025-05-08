@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/residencial-app/static/css/main.b3873a67.css",
-    "main.js": "/residencial-app/static/js/main.86a31788.js",
-    "static/js/488.ca28b487.chunk.js": "/residencial-app/static/js/488.ca28b487.chunk.js",
+    "main.css": "/residencial-app/static/css/main.ab3b9b02.chunk.css",
+    "main.js": "/residencial-app/static/js/main.21973ba8.chunk.js",
+    "main.js.map": "/residencial-app/static/js/main.21973ba8.chunk.js.map",
+    "runtime~main.js": "/residencial-app/static/js/runtime~main.4fa2b2e8.js",
+    "runtime~main.js.map": "/residencial-app/static/js/runtime~main.4fa2b2e8.js.map",
+    "static/js/2.4bb6ab0d.chunk.js": "/residencial-app/static/js/2.4bb6ab0d.chunk.js",
+    "static/js/2.4bb6ab0d.chunk.js.map": "/residencial-app/static/js/2.4bb6ab0d.chunk.js.map",
+    "static/js/3.9093b10f.chunk.js": "/residencial-app/static/js/3.9093b10f.chunk.js",
+    "static/js/3.9093b10f.chunk.js.map": "/residencial-app/static/js/3.9093b10f.chunk.js.map",
     "index.html": "/residencial-app/index.html",
-    "main.b3873a67.css.map": "/residencial-app/static/css/main.b3873a67.css.map",
-    "main.86a31788.js.map": "/residencial-app/static/js/main.86a31788.js.map",
-    "488.ca28b487.chunk.js.map": "/residencial-app/static/js/488.ca28b487.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b3873a67.css",
-    "static/js/main.86a31788.js"
-  ]
+    "precache-manifest.9dc75036babf792d641f434a43fbda00.js": "/residencial-app/precache-manifest.9dc75036babf792d641f434a43fbda00.js",
+    "service-worker.js": "/residencial-app/service-worker.js",
+    "static/css/main.ab3b9b02.chunk.css.map": "/residencial-app/static/css/main.ab3b9b02.chunk.css.map"
+  }
 }
