@@ -15,11 +15,22 @@ Este proyecto es una aplicación web desarrollada con **React** para facilitar l
 residencial-app/
 ├── public/
 ├── src/
-│ ├── pages/
-│ ├── components/
-│ └── App.js
+│   ├── assets/                  # Imágenes y logos
+│   ├── components/              # Componentes reutilizables
+│   │   ├── Notifications.js
+│   │   ├── Notifications.css
+│   │   ├── RecentPayments.js
+│   │   └── RecentPayments.css
+│   ├── pages/                   # Páginas principales
+│   │   ├── LoginPage.js
+│   │   ├── LoginPage.css
+│   │   ├── DashboardPage.js
+│   │   └── DashboardPage.css
+│   ├── App.js
+│   └── index.js
 ├── package.json
-├── README.md       
+└── README.md
+
 
 
 ## 🧩 Funcionalidades por Sprint
@@ -28,6 +39,26 @@ residencial-app/
 - Login funcional
 - Dashboard de bienvenida
 - Navegación básica con React Router
+
+### ✅ Sprint 1.2:
+- Diseño estilizado del login con fondo personalizado
+- Integración visual del logo del residencial
+- Botón de acceso con Google y Facebook diseño representativo
+- Redirección al dashboard después de iniciar sesión
+
+### ✅ Sprint 1.3:
+- Implementación del menú lateral en el Dashboard
+- Componente de notificaciones recientes
+- Componente de pagos recientes
+- Estilos visuales modernos en el dashboard
+- Integración del logo institucional y fondo
+- Redirección funcional al login al cerrar sesión
+
+### 🔜 Sprint 1.4:
+- Implementar rutas protegidas
+- Conexión con backend simulado para login
+- Integrar formulario de nuevo pago
+- Incluir alertas dinámicas
 
 ### 🔜 Sprint 2:
 - Módulo de pagos en línea
